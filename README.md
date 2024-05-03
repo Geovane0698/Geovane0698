@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Geovane0698
-- 👀 I’m interested in me capacitar cada vez mais.
--  💞️ I’m looking to collaborate on projetos que me ajude a evoluir.
+
   
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovane0698&show_icons=true&theme=radical)
@@ -16,8 +15,5 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
    
   </div>
-<!---
-Geovane0698/Geovane0698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ​​
